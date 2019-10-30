@@ -20,12 +20,12 @@ void draw()
   while (x < width)
   {
     line(x, 0, x, height);
-    x = x + 10;
+    x = x + 25;
   }
   y = 0;
   while (y < height)
   {
     line(0, y, width, y);
-    y = y + 10;
+    y = y + 25;
   }
 }
