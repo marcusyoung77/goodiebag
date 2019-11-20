@@ -19,5 +19,8 @@ background(125,125,125);
   fill(50);
   stroke(255);
   ellipse(x,300,50,50);
-
+   else if
+  {
+    x = x - 1;
+  }
 }
